@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <title>Sign In | OLX Marketplace</title>
+  </head>
+  <body>
+    <header>
+      <nav>
+        <ul>
+          <li><a href="#" id="home-link">Home</a></li>
+          <li><a href="#">Categories</a></li>
+          <li><a href="#" id="post-an-ad-link">Post an Ad</a></li>
+          <li><a href="#">Sign In</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <h1>Sign In to Your Account</h1>
+      <form>
+        <input type="email" placeholder="Email Address">
+        <input type="password" placeholder="Password">
+        <button>Sign In</button>
+      </form>
+    </main>
+    <footer>
+      <p>&copy; OLX Marketplace 2023</p>
+    </footer>
+    <script>
+      document.getElementById("home-link").addEventListener("click", function(event) {
+        event.preventDefault();
+        window.location.href = "home.html";
+      });
+      document.getElementById("post-an-ad-link").addEventListener("click", function(event) {
+        event.preventDefault();
+        window.location.href = "postanad.html";
+      });
+    </script>
+  </body>
+</html>
