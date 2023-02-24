@@ -19,7 +19,7 @@ Enjoy olx-model!
 
 But wait...
 
-If you don't want to download olx-model you can use the link: http://bit.ly/olxmodel for olx-model without downloading! 
+If you don't want to download olx-model you can use the link: olx-model.sebi96sebo.repl.co for olx-model without downloading! 
 
 And yeah is the website is working!
 
