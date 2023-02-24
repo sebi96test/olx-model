@@ -1,10 +1,22 @@
 # olx-model
 An model of olx that is working.
+
 Really works...
+
 How to download it?
+
 Press the Code Button.
+
 Next press the Download ZIP Button.
+
 And then extract the ZIP.
+
 And then run the file named "home.html".
+
 That's all!
+
 Enjoy olx-model!
+
+But wait...
+
+If you don't want to download this you can use the link: https://bit.ly/olxmodel/ Enjoy without downloading!
