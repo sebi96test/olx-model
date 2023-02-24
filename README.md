@@ -19,4 +19,8 @@ Enjoy olx-model!
 
 But wait...
 
-If you don't want to download this you can use the link: https://bit.ly/olxmodel/ Enjoy without downloading!
+If you don't want to download olx-model you can use the link: https://bit.ly/olxmodel/ for olx-model without downloading! 
+
+And yeah is the website is working!
+
+Enjoy without downloading!
